@@ -19,6 +19,7 @@ Solution:
 1) Selected python as my scripting language
 2) Created two functions so that the value can be obtained even if we pass the object and keys in different ways.
 
-Ex: get_value_of_nested_object(nested_object, ['a', 'b', 'c']) gives output d 
+Ex: 
+get_value_of_nested_object(nested_object, ['a', 'b', 'c']) gives output as 'd' 
 
-    get_value_of_nested_object(nested_object, "a/b/c") gives output d
+get_value_of_nested_object(nested_object, "a/b/c") gives output as 'd'
